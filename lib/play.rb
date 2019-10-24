@@ -43,7 +43,7 @@ def play(board)
   loop do
     i += 1
     turn(board)
-    if i == 8
+    if i == 9
       break
     end
   end
