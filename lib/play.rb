@@ -41,6 +41,7 @@ def play(board)
   
   i = 0
   loop do
+    i += 1
     
   
 end
